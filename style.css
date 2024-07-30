@@ -1,0 +1,133 @@
+.text__menu{
+    position:fixed ;
+    position: relative;
+    color: white;
+    word-spacing: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    top: 0;
+    flex-direction: column;
+    position:fixed ;
+    position: relative;
+
+}
+.navbar-brand{
+    color: black;
+}
+.logo_menu {
+    display: flex;
+    justify-content: center;
+    border-radius: 5mm;
+}
+.z_flip {
+    background-color: rgb(71, 70, 70);
+    
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+    justify-content: center;
+    
+}
+.logo__opisanie{
+    border-radius: 5mm;
+}
+.button {
+    display: flex;
+    justify-content: center;
+}
+.text{
+    color: rgb(64, 64, 64);
+}
+.menu{
+    background-color:rgb(71, 70, 70) ;
+}
+
+.photo_6{
+    margin-top: 100px;
+}
+.menu{
+    
+}
+.z_flip{
+    height: px;
+}
+
+.navigation {
+    color: rgb(182, 181, 181);
+    
+}
+.Store {
+    background-color: rgb(78, 79, 80);
+    margin-top: 0;
+}
+.text_14 {
+    color:rgb(182, 181, 181) ;
+    display: flex;
+    justify-content: center;
+    align-self: stretch;
+    margin-top: 20px;
+}
+.nazvanie{
+    margin-top: 20px;
+}
+.xiaomi_14{
+    background-color: rgb(71, 70, 70);
+    
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+    justify-content: center;
+    
+}
+
+.photo_xiaomi_14{
+    content: url("./img/c9569798583756bf129488c0fb59967aecb28121.jpg");
+}
+.text_xiomi {
+    color: rgb(78, 79, 80);
+}
+.text_xiomi_14 {
+    color: rgb(78, 79, 80);
+}
+.text_flip{
+    margin-left: 1cm;
+}
+.Z_flip {
+    margin-right: 2px;
+    background-color: rgb(71, 71, 69);
+}
+
+.xiaomi{
+    background-color: rgb(78,79,80);
+}
+.poco {
+    background-color: rgb(71, 71, 69);
+}
+.text_poco{
+    color:rgb(182, 181, 181) ;
+}
+.iphone_11 {
+    background-color: rgb(71, 71, 69);
+}
+.text_iphone_11{
+    color:rgb(182, 181, 181) ;
+    font-size: 50px;
+}
+.iphone_15{
+    background-color: rgb(71, 71, 69);
+}
+.text_iphone_15{
+    color:rgb(182, 181, 181) ;
+    font-size: 50px;
+}
+.macbook_air{
+    background-color: rgb(71, 71, 69);
+}
+.text_macbook_air{
+    color:rgb(182, 181, 181) ;
+}
